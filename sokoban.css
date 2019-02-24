@@ -1,0 +1,43 @@
+.row {
+    height: 40px;
+}
+
+.col {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+
+.player {
+    background-size: cover;
+    background-image: url("images/player.png");
+}
+
+.rock {
+    background-size: cover;
+    background-image: url("images/rock.png");
+}
+
+.dest {
+    background-size: cover;
+    background-image: url("images/dest.png");
+}
+
+.placedRock {
+    background-size: cover;
+    background-image: url("images/placed_rock.png");
+}
+
+.wall {
+    background-size: cover;
+    background-image: url("images/wall.png");
+}
+
+.empty,
+.unknown {
+    background-size: cover;
+    background-image: url("images/empty.png");
+}
