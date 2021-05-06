@@ -1,2 +1,2 @@
 # Sokoban
-Sokoban fait pour un TP Javascript
+Sokoban game made in Javascript as an exercice for IUT Informatique d'Aix.
